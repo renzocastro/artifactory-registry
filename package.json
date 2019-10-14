@@ -1,0 +1,13 @@
+{
+  "name": "artifactory-registry",
+  "version": "1.0.0",
+  "description": "This only remove the same data setted in `artifactory.json` file.",
+  "bin": "cli.sh",
+  "keywords": [
+    "cli",
+    "jfrog",
+    "artifactory"
+  ],
+  "author": "Renzo Castro (renzo.vista@gmail.com)",
+  "license": "MIT"
+}
